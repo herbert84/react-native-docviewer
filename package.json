@@ -1,6 +1,6 @@
 {
   "name": "hz-react-native-doc-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Native Module Bridge Quicklock Document Viewer for IOS -Supports pdf, png, jpg, xls, ppt, doc, docx, pptx, xlx",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   ],
   "author": "Herbert ZHAO",
   "license": "MIT",
-  "peerDependencies": {
+  "dependencies": {
     "react-native": "^0.42.0"
   },
   "repository": {
