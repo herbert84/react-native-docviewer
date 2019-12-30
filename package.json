@@ -1,5 +1,5 @@
 {
-  "name": "react-native-docviewer",
+  "name": "hz-react-native-doc-view",
   "version": "1.0.0",
   "description": "React Native Native Module Bridge Quicklock Document Viewer for IOS -Supports pdf, png, jpg, xls, ppt, doc, docx, pptx, xlx",
   "main": "index.js",
@@ -24,6 +24,8 @@
     "type": "git",
     "url": "git+https://github.com/herbert84/react-native-docviewer.git"
   },
-  "readme": "https://github.com/herbert84/react-native-docviewer/blob/master/README.md",
-  "homepage": "https://github.com/herbert84/react-native-docviewer/blob/master/README.md"
+  "homepage": "https://github.com/herbert84/react-native-docviewer/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/herbert84/react-native-docviewer/issues"
+  }
 }
