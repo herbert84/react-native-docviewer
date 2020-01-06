@@ -2,8 +2,7 @@
 //  RNDocViewer.m
 //  RNDocViewer
 //
-//  Created by Philipp Hecht on 10/03/17.
-//  Copyright (c) 2017 Philipp Hecht. All rights reserved.
+//  Copyright (c) 2017 Herbert ZHAO. All rights reserved.
 //
 #import "RNDocViewer.h"
 #import <UIKit/UIKit.h>

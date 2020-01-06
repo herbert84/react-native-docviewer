@@ -6,12 +6,12 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNReactNativeDocViewer
                    DESC
-  s.homepage     = "https://github.com/philipphecht/react-native-doc-viewer"
+  s.homepage     = "https://github.com/herbert84/react-native-docviewer"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/philipphecht/react-native-doc-viewer.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/herbert84/react-native-docviewer.git", :tag => "master" }
   s.source_files  = "ios/**/*.{h,m}"
   s.requires_arc = true
 
