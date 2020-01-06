@@ -17,8 +17,11 @@
   ],
   "author": "Herbert ZHAO",
   "license": "MIT",
-  "dependencies": {
-    "react-native": "^0.59.9"
+  "peerDependencies": {
+    "react": "^16.3.0-alpha.1",
+    "react-native": "^0.54.3",
+    "react-native-fs":"^2.3.2",
+    "hz-react-native-doc-view": "1.0.2"
   },
   "repository": {
     "type": "git",
